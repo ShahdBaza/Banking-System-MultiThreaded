@@ -26,8 +26,11 @@ This project focuses on clean code and the **SOLID principles**:
    ```bash
    python server.py
 
-2.Connect a Client:
-    python client.py
+2. **Connect a Client:**
+   ```bash
+   python client.py
+
+    
 
 ## 🎓 Academic Context
 This project was developed as part of the **Programming 2** course during my second year of Software Engineering studies.
